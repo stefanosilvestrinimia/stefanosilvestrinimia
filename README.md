@@ -19,10 +19,10 @@ I lead technology, architecture and execution, designing systems that scale and 
 ### What I focus on
 
 - Technology strategy and architecture ownership  
-- Scaling ecommerce and manufacturing platforms  
-- ERP, accounting and mission-critical integrations  
-- Automation of internal operations and workflows  
-- AI features that remove manual work  
+- Building and scaling production platforms  
+- Complex system integrations and data flows  
+- Automation of internal processes and operations  
+- AI features that reduce manual work  
 
 Most of what I build runs in production and supports real business processes every day.
 
@@ -30,26 +30,26 @@ Most of what I build runs in production and supports real business processes eve
 
 ### Impact
 
-- Automated ERP and invoicing flows across thousands of orders  
-- Reduced manual operations with internal tools and cron pipelines  
-- Integrated payments, CRM and accounting into a single system  
-- Shipped AI assistants for quoting and support  
+- Replaced manual workflows with software and automation  
+- Integrated multiple tools into cohesive, reliable systems  
+- Improved performance, reliability and delivery speed  
+- Shipped features that directly affect revenue and operations  
 
 ---
 
 ### Tech stack
 
 Backend  
-PHP · MySQL · REST · JSON · background jobs
+PHP · MySQL · REST · JSON · Background jobs
 
 Infra  
-AWS · Cloudflare · CI/CD · automation scripts
+AWS · Cloudflare · CI/CD · Automation
 
 Integrations  
-HubSpot · Business Central · Payments · SES · third-party APIs
+Third-party APIs · CRM · Payments · Messaging · Data sync
 
 AI  
-OpenAI APIs · conversational agents · workflow automation
+OpenAI APIs · Conversational agents · Workflow automation
 
 ---
 
@@ -60,17 +60,17 @@ OpenAI APIs · conversational agents · workflow automation
 
 #### Principles
 
-- Build software that replaces manual processes  
+- Build software that replaces manual work  
 - Prefer simple architectures over clever ones  
 - Measure outcomes, not output  
 - Ship continuously  
 
 #### Currently building
 
-- ERP and accounting automation  
-- AI conversational agents for quoting  
-- Supplier quality control tooling  
-- Internal operations “control tower” systems  
+- Internal tooling and automation  
+- AI-powered workflows  
+- Scalable backend systems  
+- Better developer experience and processes  
 
 CTO, still hands-on by choice.
 
