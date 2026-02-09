@@ -3,72 +3,75 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align="right" width="220" />
 
 > CTO at Madeinadd  
-> Backend engineer by heart  
 > I build products, not slides
 
-I design systems, automate operations and turn messy business processes into software.
+I lead technology, architecture and execution for a 3D manufacturing marketplace, designing systems that scale and turning operations into software.
 
 ---
 
 ### Stay connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefano%20Silvestrini-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanosilvestrini)
-
 [![GitHub](https://img.shields.io/badge/GitHub-@stefanosilvestrinimia-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanosilvestrinimia)
 
 ---
 
-### What I do
+### What I focus on
 
-- Build backend systems and APIs  
-- Integrate ERP, accounting and external tools  
-- Automate repetitive operations with scripts and cronjobs  
-- Ship AI features and workflow assistants  
-- Scale ecommerce and manufacturing platforms  
+- Technology strategy and architecture ownership  
+- Scaling ecommerce and manufacturing platforms  
+- ERP, accounting and mission-critical integrations  
+- Automation of internal operations and workflows  
+- AI features that remove manual work  
 
-Most of my work runs in production and lives in private repos.
+Most of what I build runs in production and supports real business processes every day.
+
+---
+
+### Impact
+
+- Automated ERP and invoicing flows across thousands of orders  
+- Reduced manual operations with internal tools and cron pipelines  
+- Integrated payments, CRM and accounting into a single system  
+- Shipped AI assistants for quoting and support  
 
 ---
 
 ### Tech stack
 
 Backend  
-PHP · MySQL · REST · JSON
+PHP · MySQL · REST · JSON · background jobs
 
 Infra  
-AWS · Cloudflare · CI/CD
+AWS · Cloudflare · CI/CD · automation scripts
 
 Integrations  
 HubSpot · Business Central · Payments · SES · third-party APIs
 
 AI  
-OpenAI APIs · Conversational agents · Automation workflows
+OpenAI APIs · conversational agents · workflow automation
 
 ---
 
 <details>
-  <summary><strong>Discover more about me</strong></summary>
+  <summary><strong>More about how I work</strong></summary>
 
 <br/>
 
-#### Philosophy
+#### Principles
 
-- Ship fast  
-- Automate everything repetitive  
-- Prefer simple systems over complex architectures  
-- Measure impact, not effort  
+- Build software that replaces manual processes  
+- Prefer simple architectures over clever ones  
+- Measure outcomes, not output  
+- Ship continuously  
 
 #### Currently building
 
-- ERP automation and invoice sync tools  
+- ERP and accounting automation  
 - AI conversational agents for quoting  
-- Supplier quality control systems  
-- Internal ops tooling  
+- Supplier quality control tooling  
+- Internal operations “control tower” systems  
 
-#### Fun facts
-
-- CTO who still writes PHP daily  
-- Love turning spreadsheets into software  
-- Slight obsession for cronjobs and clean processes  
+CTO, still hands-on by choice.
 
 </details>
