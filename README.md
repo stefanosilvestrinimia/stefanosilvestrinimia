@@ -1,43 +1,73 @@
 ## Hi, I'm Stefano Silvestrini
 
-CTO @ Madeinadd — I build products, not slides.
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align="right" width="220" />
 
-Software engineer with a strong operational mindset, focused on automation, integrations and scalable systems.
+> CTO at Madeinadd  
+> Backend engineer by heart  
+> I build products, not slides
+
+I design systems, automate operations and turn messy business processes into software.
+
+---
+
+### Stay connected
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefano%20Silvestrini-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-@stefanosilvestrinimia-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanosilvestrinimia)
 
 ---
 
 ### What I do
 
-I work on real problems in production environments:
+- Build backend systems and APIs  
+- Integrate ERP, accounting and external tools  
+- Automate repetitive operations with scripts and cronjobs  
+- Ship AI features and workflow assistants  
+- Scale ecommerce and manufacturing platforms  
 
-- Backend systems and APIs  
-- ERP & accounting integrations  
-- Process automation and tooling  
-- AI-driven features and workflow assistants  
-- Distributed manufacturing operations
-
----
-
-### Tech & tools
-
-Backend: PHP, MySQL, REST, JSON  
-Infra: AWS, Cloudflare, Docker, CI/CD  
-Integrations: HubSpot, Business Central, payment systems  
-AI & automation: OpenAI APIs, voice agents, cron workflows
+Most of my work runs in production and lives in private repos.
 
 ---
 
-### Currently building
+### Tech stack
+
+Backend  
+PHP · MySQL · REST · JSON · queues · cronjobs
+
+Infra  
+AWS · Cloudflare · Docker · CI/CD
+
+Integrations  
+HubSpot · Business Central · payments · email systems · third-party APIs
+
+AI  
+OpenAI APIs · conversational agents · automation workflows
+
+---
+
+<details>
+  <summary><strong>Discover more about me</strong></summary>
+
+<br/>
+
+#### Philosophy
+
+- Ship fast  
+- Automate everything repetitive  
+- Prefer simple systems over complex architectures  
+- Measure impact, not effort  
+
+#### Currently building
 
 - ERP automation and invoice sync tools  
-- AI conversational agents for quoting and support  
-- Quality control systems for 3D manufacturing workflows  
-- Internal operations tooling and analytics
+- AI conversational agents for quoting  
+- Supplier quality control systems  
+- Internal ops tooling  
 
----
+#### Fun facts
 
-### Links
+- CTO who still writes PHP daily  
+- Love turning spreadsheets into software  
+- Slight obsession for cronjobs and clean processes  
 
-GitHub: https://github.com/stefanosilvestrinimia  
-LinkedIn: https://www.linkedin.com/in/stefanosilvestrini
-Madeinadd: https://www.madeinadd.com
+</details>
