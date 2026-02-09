@@ -13,6 +13,7 @@ I design systems, automate operations and turn messy business processes into sof
 ### Stay connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefano%20Silvestrini-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanosilvestrini)
+
 [![GitHub](https://img.shields.io/badge/GitHub-@stefanosilvestrinimia-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanosilvestrinimia)
 
 ---
