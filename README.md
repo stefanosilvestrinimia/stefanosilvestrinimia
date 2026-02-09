@@ -5,7 +5,7 @@
 > CTO at Madeinadd  
 > I build products, not slides
 
-I lead technology, architecture and execution for a 3D manufacturing marketplace, designing systems that scale and turning operations into software.
+I lead technology, architecture and execution, designing systems that scale and turning operations into software.
 
 ---
 
