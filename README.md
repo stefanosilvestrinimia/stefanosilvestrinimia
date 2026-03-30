@@ -41,10 +41,10 @@ Most of what I build runs in production and supports real business processes eve
 ### Tech stack
 
 Backend  
-PHP · MySQL · REST · JSON · Background jobs
+PHP · SQL · REST · PY · JS
 
 Infra  
-AWS · Cloudflare · CI/CD · Automation
+AWS · Azure · Cloudflare · CI/CD · Automation
 
 Integrations  
 Third-party APIs · CRM · Payments · Messaging · Data sync
